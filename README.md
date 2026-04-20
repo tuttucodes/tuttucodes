@@ -1,3 +1,5 @@
+<img align="right" src="https://github.com/tuttucodes.png?size=180" alt="Rahul Babu's avatar" width="180" height="180" />
+
 # Hi, I'm Rahul
 
 > Building since grade 3. Some of it even works.
@@ -98,6 +100,8 @@ Smaller bets, mentioned for honesty, not hype:
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuttucodes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
+<img align="left" src="https://github.com/tuttucodes.png?size=64" alt="" width="48" height="48" />
 
 ## Find me
 
