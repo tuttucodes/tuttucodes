@@ -1,16 +1,26 @@
-<img align="right" src="https://github.com/tuttucodes.png?size=180" alt="Rahul Babu's avatar" width="180" height="180" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=220&section=header&text=Rahul%20Babu&fontSize=64&fontColor=c0caf5&fontAlignY=38&desc=Building%20since%20grade%203.%20Some%20of%20it%20even%20works.&descSize=18&descAlignY=62&descAlign=50&animation=fadeIn)
 
-# Hi, I'm Rahul
+<p align="center">
+  <a href="https://linkedin.com/in/rahulbabuk"><img src="https://img.shields.io/badge/Harvard_HPAIR-2026_Delegate-A51C30?style=for-the-badge&labelColor=0d1117" alt="Harvard HPAIR 2026"></a>
+  <img src="https://img.shields.io/badge/Patent--Published-202641022498-7aa2f7?style=for-the-badge&labelColor=0d1117" alt="Patent Published">
+  <img src="https://img.shields.io/badge/B.Tech_CS-VIT_Chennai-bb9af7?style=for-the-badge&labelColor=0d1117" alt="VIT Chennai">
+  <img src="https://img.shields.io/badge/BS_Data_Science-IIT_Madras-9ece6a?style=for-the-badge&labelColor=0d1117" alt="IIT Madras">
+  <img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=0d1117" alt="AWS SAA">
+</p>
 
-> Building since grade 3. Some of it even works.
+---
 
-I'm a 20-year-old builder from Kochi, based in Chennai. I'm doing a B.Tech in
-Computer Science at **VIT Chennai** (graduating 2027) and a concurrent **BS in Data
-Science at IIT Madras** (graduating 2028) — two degrees at once sounded easier than
-it actually is. I've been filing patents, shipping products, and soldering things I
-shouldn't have for about twelve years. Right now I'm heads-down on **LexAI** — an AI
-platform for Indian corporate law firms — and running **Laundroswipe**, a campus
-laundry marketplace serving 600+ students at VIT.
+### Hi, I'm Rahul 👋
+
+> *Building since grade 3. Some of it even works.*
+
+I'm a 20-year-old builder from **Kochi**, based in **Chennai**. I'm doing a B.Tech in
+Computer Science at **VIT Chennai** *(graduating 2027)* and a concurrent **BS in
+Data Science at IIT Madras** *(graduating 2028)* — two degrees at once sounded
+easier than it actually is. I've been filing patents, shipping products, and
+soldering things I shouldn't have for about twelve years. Right now I'm heads-down
+on **LexAI** — an AI platform for Indian corporate law firms — and running
+**Laundroswipe**, a campus laundry marketplace serving **600+ students** at VIT.
 
 ---
 
@@ -95,13 +105,13 @@ Smaller bets, mentioned for honesty, not hype:
 
 |   |   |
 |---|---|
-| [![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuttucodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub streak](https://streak-stats.demolab.com?user=tuttucodes&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) |
+| [![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuttucodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&icon_color=bb9af7&title_color=7aa2f7)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub streak](https://streak-stats.demolab.com?user=tuttucodes&theme=tokyonight&hide_border=true&ring=bb9af7&fire=bb9af7&currStreakLabel=7aa2f7)](https://git.io/streak-stats) |
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuttucodes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuttucodes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=7aa2f7)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Rahul's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=tuttucodes&bg_color=1a1b27&color=c0caf5&line=7aa2f7&point=bb9af7&area=true&hide_border=true&area_color=bb9af7)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-
-<img align="left" src="https://github.com/tuttucodes.png?size=64" alt="" width="48" height="48" />
 
 ## Find me
 
@@ -112,6 +122,8 @@ Smaller bets, mentioned for honesty, not hype:
 - **Personal site** — [rahulbk.com](https://rahulbk.com)
 
 ![Profile views](https://komarev.com/ghpvc/?username=tuttucodes&color=blueviolet&style=flat)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b27&height=120&section=footer&animation=fadeIn)
 
 <!--
   If you read the source, you're already my kind of person. Send me an email;
