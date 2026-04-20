@@ -105,7 +105,7 @@ Smaller bets, mentioned for honesty, not hype:
   · founders/investors, use subject line **"LexAI Intro"** or **"Laundroswipe"** and you'll jump the queue.
 - **LinkedIn** — [linkedin.com/in/rahulbabuk](https://linkedin.com/in/rahulbabuk)
 - **X** — [@itsrahulbk](https://x.com/itsrahulbk)
-- **Personal site** — [rahulbk.com](https://rahulbk.com) *(coming soon)*
+- **Personal site** — [rahulbk.com](https://rahulbk.com)
 
 ![Profile views](https://komarev.com/ghpvc/?username=tuttucodes&color=blueviolet&style=flat)
 
