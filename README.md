@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/BS_Data_Science-IIT_Madras-9ece6a?style=for-the-badge&labelColor=0d1117" alt="IIT Madras">
   <img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=0d1117" alt="AWS SAA">
 </p>
-
+ 
 ---
 
 ### Hi, I'm Rahul 👋
